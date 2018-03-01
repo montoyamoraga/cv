@@ -8,8 +8,8 @@ montoyamoraga@gmail.com
 
 ## Education
 
-* 2017: Master of Professional Studies, Interactive Telecommunications Program, New York University  
-* 2013: Bachelor of Science, Electrical Engineering, Pontificia Universidad Católica de Chile
+* 2017, New York University, Interactive Telecommunications Program, Master of Professional Studies.
+* 2013, Pontificia Universidad Católica de Chile, Electrical Engineering, Bachelor of Science.
 
 ## Professional experience
 
@@ -50,10 +50,12 @@ montoyamoraga@gmail.com
 * Protocols: MIDI, OSC, Serial.
 * Programming: bash, git, Python.
 
-## Professional organizations
+## Organizations
 
-* CODED Escuela, Santiago, Chile.
+
 * Processing Foundation, New York NY, USA.
+* CODED Escuela, Santiago, Chile.
+* Posternura Records, Santiago, Chile.
 
 ## Exhibitions curated
 
