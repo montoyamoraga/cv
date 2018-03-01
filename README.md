@@ -23,8 +23,7 @@ montoyamoraga@gmail.com
 
 ## Exhibitions and Shows
 
-* [Frequency Sweep #2](http://frequencysweep.com/), New York NY, February 2018.
-* [Frequency Sweep #1](http://frequencysweep.com/), New York NY, December 2017.
+
 * [Domestik](), Santiago, Chile, September 2017.
 * [World Maker Faire](https://makerfaire.com/), Queens NY, September 2016.
 * [Salamanca Moves](https://www.salarts.org.au/portfolio/programs/salamanca-moves/), Hobart, Tasmania, September 2016.
@@ -44,3 +43,24 @@ montoyamoraga@gmail.com
 ## Lectures, presentations, workshops
 
 ## Technical skills
+
+* Web: HTML, CSS, JavaScript.
+* Video mapping: MadMapper, Millumin, Syphon.
+* Computer music: Max, Pure Data, ChucK.
+* Protocols: MIDI, OSC, Serial.
+* Programming: bash, git, Python.
+
+## Professional organizations
+
+* CODED Escuela, Santiago, Chile.
+* Processing Foundation, New York NY, USA.
+
+## Exhibitions curated
+
+* [Frequency Sweep #2](http://frequencysweep.com/), Babycastles, New York NY, USA, February 2018.
+* [Frequency Sweep #1](http://frequencysweep.com/), New York NY, USA,m December 2017.
+
+## Languages
+
+* Spanish, native.
+* English, fluent.
