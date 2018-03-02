@@ -67,3 +67,7 @@ montoyamoraga@gmail.com
 
 * Spanish, native.
 * English, fluent.
+
+## Publications
+
+* Cadiz, R. F. et al(2015). [Sonification of Medical Images Based on Statistical Descriptors](https://quod.lib.umich.edu/i/icmc/bbp2372.2015.013/1/--sonification-of-medical-images-based-on-statistical?page=root;size=150;view=text). Ann Arbor, MI: Michigan Publishing, University of Michigan Library.
