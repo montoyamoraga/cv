@@ -1,16 +1,5 @@
 # CURRICULUM VITAE
 
-## Personal data
-
-Aarón Montoya-Moraga  
-montoyamoraga@gmail.com  
-[http://montoyamoraga.io/](http://montoyamoraga.io/)
-
-## Education
-
-* 2017, New York University, Interactive Telecommunications Program, Master of Professional Studies.
-* 2013, Pontificia Universidad Católica de Chile, Electrical Engineering, Bachelor of Science.
-
 ## Organizations
 
 * [Processing Foundation](https://processingfoundation.org/), New York NY, USA.
@@ -42,9 +31,6 @@ montoyamoraga@gmail.com
 
 * Dance and New Media Conference, New York University, New York NY USA, May 2017.
 
-## Publications
-
-* Cadiz, R. F. et al(2015). [Sonification of Medical Images Based on Statistical Descriptors](https://quod.lib.umich.edu/i/icmc/bbp2372.2015.013/1/--sonification-of-medical-images-based-on-statistical?page=root;size=150;view=text). Ann Arbor, MI: Michigan Publishing, University of Michigan Library.
 
 ### Technical skills
 
@@ -57,11 +43,7 @@ montoyamoraga@gmail.com
 * Physical computing: Arduino, Teensy.
 * Scraping: Selenium, Beautiful Soup.
 
-### Languages
 
-* Spanish, native.
-* English, fluent.
-* German, beginner.
 
 ## Live performances
 
@@ -84,25 +66,3 @@ montoyamoraga@gmail.com
 * [NYC CS Fair](http://www.csfair.nyc/), New York NY, USA, April 2016.
 * [NYU ITP Winter Show](https://itp.nyu.edu/shows/winter2015/category/projects/), New York NY, USA, May 2015
 * [Santiago Off](http://santiagooff.com/), project [Prótesis](http://www.mariajosecontreras.com/protesis) with [María José Contreras](http://www.mariajosecontreras.com/), January 2015.
-
-## Grants and Awards
-
-* New York University, Institute of Performing Arts, funds for developing media arts show, 2017.
-* New York University, Tisch School of the Arts, Graduate Student Organization Grant, 2017.
-* Chilean Ministry of Education, Conicyt Becas Chile, complete funding of graduate studies at New York University, 2015.
-
-## Curation
-
-* [Frequency Sweep #2](http://frequencysweep.com/) (with Dominic Barrett), Babycastles, New York NY, USA, February 2018
-* [Frequency Sweep #1](http://frequencysweep.com/) (with Dominic Barrett), BabyCastles, New York NY, USA, December 2017.
-
-## Press
-
-* [Helloworld.cz](http://www.helloworld.cz/stupid-hackathon-predstavil-nepotrebne-a-zbytecne-vychytavky/), Infinite Folders @ Stupid Hackathon, July 2017.
-* Radio La Central, Nación Indi Episode 77, interview by host Natisú, August 2016.
-* [The Daily Beast](http://www.thedailybeast.com/articles/2016/05/30/where-are-all-the-robot-artists.html), Where are all the robot artists?, Die Hard Piano @ alt-ai, May 2016.
-
-## Volunteer work
-
-* NYU ITP Teacher Corps, teacher of introduction to media arts for high school students, 2016
-* Animalia UC, founder and directory board of animal rights organization, Santiago de Chile, March-September 2009.
